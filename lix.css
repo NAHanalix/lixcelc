@@ -1,8 +1,10 @@
 
 body {
     background-color: gray;
-    text-align: center;
 }
 .tokyorevengersimagem {
     width: 20%;
+}
+.imagemcentralizada {
+text-align: center;
 }
