@@ -1,6 +1,7 @@
 
 body {
     background-color: gray;
+    color: white
 }
 .tokyorevengersimagem {
     width: 20%;
@@ -8,3 +9,5 @@ body {
 .imagemcentralizada {
 text-align: center;
 }
+h1 {
+     color: red;
